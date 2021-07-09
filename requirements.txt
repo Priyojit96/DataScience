@@ -1,0 +1,7 @@
+numpy
+matplotlib
+os
+opencv-python
+tensorflow
+pickle
+time
